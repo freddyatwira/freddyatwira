@@ -21,6 +21,8 @@ Things you may want to cover:
 
 * Deployment instructions
 
+* and much more
+
 * ...
 # freddyatwira
-#is the author
+
